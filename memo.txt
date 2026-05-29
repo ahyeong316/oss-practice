@@ -1,0 +1,3 @@
+git이슈 만드는 방법
+github 참여
+github 이슈 요청
